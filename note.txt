@@ -1,1 +1,5 @@
+
 Place for note-taking
+
+a) Buttons to be added
+b) forms to be added in html
